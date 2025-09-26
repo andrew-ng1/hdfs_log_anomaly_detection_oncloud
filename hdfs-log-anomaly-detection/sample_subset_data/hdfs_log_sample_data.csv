@@ -1,0 +1,51 @@
+,BlockId,content
+0,blk_-1608999687919862906,dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:
+1,blk_-1608999687919862906,dfs.fsnamesystem: block* namesystem.allocateblock: /mnt/hadoop/mapred/system/job__/job.jar. blk_-
+2,blk_-1608999687919862906,dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:
+3,blk_-1608999687919862906,dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:
+4,blk_-1608999687919862906,dfs.datanode$packetresponder: packetresponder  for block blk_- terminating
+5,blk_-1608999687919862906,dfs.datanode$packetresponder: packetresponder  for block blk_- terminating
+6,blk_-1608999687919862906,dfs.datanode$packetresponder: received block blk_- of size  from /...
+7,blk_-1608999687919862906,dfs.datanode$packetresponder: received block blk_- of size  from /...
+8,blk_-1608999687919862906,dfs.datanode$packetresponder: packetresponder  for block blk_- terminating
+9,blk_-1608999687919862906,dfs.datanode$packetresponder: received block blk_- of size  from /...
+10,blk_-1608999687919862906,dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size
+11,blk_-1608999687919862906,dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size
+12,blk_-1608999687919862906,dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size
+13,blk_7503483334202473044,dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:
+14,blk_7503483334202473044,dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:
+15,blk_7503483334202473044,dfs.fsnamesystem: block* namesystem.allocateblock: /mnt/hadoop/mapred/system/job__/job.split. blk_
+16,blk_-1608999687919862906,dfs.datanode$dataxceiver: received block blk_- src: /...: dest: /...: of size
+17,blk_-1608999687919862906,dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:
+18,blk_7503483334202473044,dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:
+19,blk_-3544583377289625738,dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:
+20,blk_7503483334202473044,dfs.datanode$packetresponder: packetresponder  for block blk_ terminating
+21,blk_7503483334202473044,dfs.datanode$packetresponder: received block blk_ of size  from /...
+22,blk_7503483334202473044,dfs.datanode$packetresponder: packetresponder  for block blk_ terminating
+23,blk_7503483334202473044,dfs.datanode$packetresponder: received block blk_ of size  from /...
+24,blk_-1608999687919862906,dfs.datanode$datatransfer: ...::transmitted block blk_- to /...:
+25,blk_-1608999687919862906,dfs.datanode$dataxceiver: received block blk_- src: /...: dest: /...: of size
+26,blk_-1608999687919862906,dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:
+27,blk_7503483334202473044,dfs.datanode$packetresponder: packetresponder  for block blk_ terminating
+28,blk_7503483334202473044,dfs.datanode$packetresponder: received block blk_ of size  from /...
+29,blk_-1608999687919862906,"dfs.datanode: ...: starting thread to transfer block blk_- to ...:, ...:"
+30,blk_-1608999687919862906,dfs.fsnamesystem: block* ask ...: to replicate blk_- to datanode(s) ...: ...:
+31,blk_7503483334202473044,dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size
+32,blk_-3544583377289625738,dfs.fsnamesystem: block* namesystem.allocateblock: /mnt/hadoop/mapred/system/job__/job.xml. blk_-
+33,blk_-1608999687919862906,dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size
+34,blk_7503483334202473044,dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size
+35,blk_-1608999687919862906,dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size
+36,blk_7503483334202473044,dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size
+37,blk_-3544583377289625738,dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:
+38,blk_-3544583377289625738,dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:
+39,blk_-3544583377289625738,dfs.datanode$packetresponder: packetresponder  for block blk_- terminating
+40,blk_-3544583377289625738,dfs.datanode$packetresponder: received block blk_- of size  from /...
+41,blk_-9073992586687739851,dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:
+42,blk_-3544583377289625738,dfs.datanode$packetresponder: packetresponder  for block blk_- terminating
+43,blk_-3544583377289625738,dfs.datanode$packetresponder: received block blk_- of size  from /...
+44,blk_-3544583377289625738,dfs.datanode$packetresponder: packetresponder  for block blk_- terminating
+45,blk_-3544583377289625738,dfs.datanode$packetresponder: received block blk_- of size  from /...
+46,blk_-3544583377289625738,dfs.datanode$dataxceiver: ...: served block blk_- to /...
+47,blk_-1608999687919862906,dfs.datanode$dataxceiver: ...: served block blk_- to /...
+48,blk_-9073992586687739851,dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_logs/history/ip----.ec.internal__job___conf.xml. blk_-
+49,blk_-3544583377289625738,dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size
