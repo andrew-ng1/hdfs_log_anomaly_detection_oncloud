@@ -7,7 +7,7 @@ It shows how to process large log datasets (>500k rows), tokenize log messages i
 
 ## Dataset
 - **Source:** Public HDFS log dataset (~150 MB).  
-- Due to size limits, **sample subsets** are included here: [`hdfs-log-anomaly-detection/sample_subset_data`](./sample_data_subset)  
+- Due to size limits, **sample subsets** are included here: [`hdfs-log-anomaly-detection/sample_subset_data`](./sample_subset_data)  
 - **Full dataset instructions:** You can download the complete HDFS log dataset from the [LogHub repository](https://github.com/logpai/loghub) (look for the **HDFS** logs).
 
 ---
