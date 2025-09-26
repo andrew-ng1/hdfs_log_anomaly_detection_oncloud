@@ -35,7 +35,7 @@ By combining these, the project highlights how to design **scalable, cloud-enabl
 
 ## Usage
 1. See [`aws-pipeline-demo`](./aws-pipeline-demo) for step-by-step instructions on building the cloud workflow.  
-2. See [`hdfs-log-anomaly-detection`](./hdsf-log-anomaly-detection) for applying anomaly detection to log data.  
+2. See [`hdfs-log-anomaly-detection`](./hdfs-log-anomaly-detection) for applying anomaly detection to log data.  
 3. Combine both to create a **cloud-based anomaly detection pipeline**.
 
 ---
