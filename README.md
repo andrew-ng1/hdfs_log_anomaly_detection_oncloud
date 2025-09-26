@@ -8,6 +8,8 @@ It combines two parts:
 
 By combining these, the project highlights how to design **scalable, cloud-enabled analytics pipelines** that can support both simple analyses and more advanced machine learning tasks.
 
+This project was completed during the Master of Data Science Program at The University of Columbia University in May 2022.
+
 ---
 
 ## Highlights
